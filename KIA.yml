@@ -1,10 +1,6 @@
 team: KIA
 
-<<<<<<< HEAD
-manager: 이수호
-=======
-manager: 이한희
->>>>>>> conflict
+manager: 앙냥
 
 members:
   - 양현종
